@@ -1,24 +1,22 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Meshiterro
+## 概要
+dwcカリキュラム  アプリケーションを完成させよう2
+### ページ構成
+- ログイン画面
+- 新規登録画面
+- 投稿一覧画面
+- 投稿画面
+- マイページ画面
+- プロフィール編集画面
+- 投稿詳細画面
+### 実装機能
+- 投稿の一覧
+- 投稿の詳細
+- 投稿の編集
+- 投稿の削除
+- コメントの入力
+- 「いいね」ボタン
+- ユーザ登録
+- ログイン
+- マイページ
+- プロフィール編集
